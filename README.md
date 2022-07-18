@@ -1,2 +1,2 @@
 # Collabrative-Filtering
-Movie Recommendations System
+It's an alogorithm used in Movie Recommendations System
